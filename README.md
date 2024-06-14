@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I build interactive and user-friendly digital solu
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdajani&show_icons=true&theme=radical)
 
 ## Projects
-- [Credit Card Validation API](https://github.com/amdajani/credit-card-api)
-- [Personal Portfolio](https://github.com/amdajani/personal-portfolio)
+- [Credit Card Validation API](https://github.com/amdajani/API/tree/main/credit-card)
+- [Personal Portfolio](https://github.com/amdajani/Abdullah-Dajani-s/tree/main/personal-website)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dajani-abdullah)
